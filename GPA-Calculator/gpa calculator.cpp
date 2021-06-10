@@ -114,7 +114,7 @@ int main()
 	do{
 		system("cls");
 		cout<<" ------------------------------------ "<<endl; 
-		cout<<" |          GPA Calculator          | "<<endl; 
+		cout<<" |    GPA Calculator      | "<<endl; 
 		cout<<" ------------------------------------"<<endl<<endl;
 		cout<<"1. Calculate GPA"<<endl;
 		cout<<"2. Calculate CGPA"<<endl;
@@ -128,7 +128,8 @@ int main()
 		else if( op=='3') instructions();
 		else if( op=='4') exit(0);
 		
-	}while(1);
+	}
+	while(1);
 	
 	return 0;
 }
