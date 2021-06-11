@@ -127,7 +127,6 @@ int main()
 		else if( op=='2') calculateCGPA();
 		else if( op=='3') instructions();
 		else if( op=='4') exit(0);
-		
 	}
 	while(1);
 	
