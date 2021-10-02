@@ -13,6 +13,7 @@ void calculateGPA()
     double totalCredits = 0;
     
     system("cls");
+	
     cout<<"---------------------------------"<<endl;
 	cout<<"  GPA Calculator    	            "<<endl;
     cout<<"---------------------------------"<<endl;
